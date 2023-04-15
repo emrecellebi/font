@@ -69,3 +69,51 @@
 	font-family: "Birdl";
 	src: url("../fonts/font-pack-1/BIRDL___.TTF");
 }
+
+@font-face
+{
+	font-family: "Birdman";
+	src: url("../fonts/font-pack-1/BIRDMAN_.TTF");
+}
+
+@font-face
+{
+	font-family: "Birdo";
+	src: url("../fonts/font-pack-1/BIRDO___.TTF");
+}
+
+@font-face
+{
+	font-family: "BPreplay";
+	src: url("../fonts/font-pack-1/BPreplay.otf");
+}
+
+@font-face
+{
+	font-family: "BrownBagLunch";
+	src: url("../fonts/font-pack-1/BrownBagLunch.ttf");
+}
+
+@font-face
+{
+	font-family: "BrushHyouka";
+	src: url("../fonts/font-pack-1/brush-hyouka.ttf");
+}
+
+@font-face
+{
+	font-family: "BrushtypeSemibold";
+	src: url("../fonts/font-pack-1/brushtype-semibold.ttf");
+}
+
+@font-face
+{
+	font-family: "Callani";
+	src: url("../fonts/font-pack-1/Callani.ttf");
+}
+
+@font-face
+{
+	font-family: "Callani";
+	src: url("../fonts/font-pack-1/Clannad_Round_Regular.ttf");
+}
