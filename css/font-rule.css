@@ -114,6 +114,54 @@
 
 @font-face
 {
-	font-family: "Callani";
+	font-family: "ClannadRoundRegular";
 	src: url("../fonts/font-pack-1/Clannad_Round_Regular.ttf");
+}
+
+@font-face
+{
+	font-family: "Club1";
+	src: url("../fonts/font-pack-1/CLUB____.TTF");
+}
+
+@font-face
+{
+	font-family: "CrashLandingBB";
+	src: url("../fonts/font-pack-1/CrashLandingBB.ttf");
+}
+
+@font-face
+{
+	font-family: "Danub";
+	src: url("../fonts/font-pack-1/DANUB___.TTF");
+}
+
+@font-face
+{
+	font-family: "Danube";
+	src: url("../fonts/font-pack-1/DANUBE__.TTF");
+}
+
+@font-face
+{
+	font-family: "Dfhs4";
+	src: url("../fonts/font-pack-1/DFHSR4.TTC");
+}
+
+@font-face
+{
+	font-family: "DFPMaruGothic-W6-Kami";
+	src: url("../fonts/font-pack-1/DFPMaruGothic-W6-Kami.ttf");
+}
+
+@font-face
+{
+	font-family: "flickneb";
+	src: url("../fonts/font-pack-1/flickneb.ttf");
+}
+
+@font-face
+{
+	font-family: "Habbo";
+	src: url("../fonts/font-pack-1/Habbo.ttf");
 }
